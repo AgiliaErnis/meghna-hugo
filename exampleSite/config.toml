@@ -12,6 +12,13 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
+[Languages.ru]
+contentDir = "content/russian"
+copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
+home = "Home"
+languageCode = "ru-ru"
+languageName = "Ru"
+weight = 3
 [Languages.fr]
 contentDir = "content/french"
 copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
